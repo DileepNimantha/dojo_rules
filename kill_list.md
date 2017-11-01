@@ -8,4 +8,4 @@ Kill List
 
 Programmer grievance
 --------------------
-* My programmer grievance will be on people
+* My programmer grievance will be on x people
